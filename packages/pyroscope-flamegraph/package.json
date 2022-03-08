@@ -1,6 +1,6 @@
 {
   "name": "@pyroscope/flamegraph",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "main": "dist/index.node.js",
   "browser": "dist/index.js",
   "license": "Apache-2.0",
@@ -20,7 +20,7 @@
     "react": ">=16.14.0"
   },
   "dependencies": {
-    "@pyroscope/models": "^0.0.2",
+    "@pyroscope/models": "^0.0.3",
     "true-myth": "^5.1.2"
   }
 }
